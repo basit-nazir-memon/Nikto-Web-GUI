@@ -1,0 +1,17 @@
+- Nikto v2.5.0
+---------------------------------------------------------------------------
+
++ Multiple IPs found: 45.33.32.156, 2600:3c01::f03c:91ff:fe18:bb2f
+
++ Start Time:         2024-05-06 00:24:09 (GMT0)
+---------------------------------------------------------------------------
++ Server: Apache/2.4.7 (Ubuntu)
+
++ Target IP:          45.33.32.156
++ Target Hostname:    scanme.nmap.org
++ Target Port:        80
+
++ /: The anti-clickjacking X-Frame-Options header is not present. See: https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/X-Frame-Options
+
++ /: The X-Content-Type-Options header is not set. This could allow the user agent to render the content of the site in a different fashion to the MIME type. See: https://www.netsparker.com/web-vulnerability-scanner/vulnerabilities/missing-content-type-header/
+
